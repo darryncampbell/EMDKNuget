@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Symbol.XamarinEMDK</id>
+    <version>2.1.0.5</version>
+    <authors>Darryn Campbell</authors>
+    <owners>Symbol Technologies LLC</owners>
+    <licenseUrl>https://raw.githubusercontent.com/darryncampbell/EMDKNuget/resources/master/license.txt</licenseUrl>
+    <projectUrl>https://github.com/darryncampbell/EMDKNuget</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/darryncampbell/EMDKNuget/resources/master/icon.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Nuget Package to wrap the Symbol EMDK Xamarin Component from Zebra Technologies, https://developer.zebra.com/community/android/xamarin.  This NuGet package is not endorsed or recognised by Zebra Technologies and is provided without Warranty</description>
+    <releaseNotes>Based on the EMDK Xamarin library 2.1.0.5 from Zebra Technologies</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Symbol EMDK</tags>
+    <!--dependencies>
+      <dependency id="SampleDependency" version="1.0" />
+    </dependencies-->
+  </metadata>
+</package>
