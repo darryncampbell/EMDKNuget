@@ -1,6 +1,7 @@
-# NuGet package for EMDK Xamarin Component
+*Please be aware that this application / sample is provided as-is for demonstration purposes without any guarantee of support*
+=========================================================
 
-###This application is provided without guarantee or warranty
+# NuGet package for EMDK Xamarin Component
 
 ##Purpose
 This **proof of concept** shows how the [EMDK for Xamarin component provided by Zebra Technologies](https://developer.zebra.com/community/android/xamarin) can be converted to a NuGet package.
